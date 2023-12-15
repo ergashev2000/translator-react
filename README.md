@@ -1,1 +1,1 @@
-https://translator-uz.vercel.app/
+![alt text]([http://url/to/img.png](https://blog-adminuz.vercel.app/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fexpress24-5ec15.appspot.com%2Fo%2FScreenshot_1%2520(1).webp%3Falt%3Dmedia%26token%3Dc9c5df70-b2e4-4a53-ac91-a6c6e9336d06&w=640&q=75)https://blog-adminuz.vercel.app/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fexpress24-5ec15.appspot.com%2Fo%2FScreenshot_1%2520(1).webp%3Falt%3Dmedia%26token%3Dc9c5df70-b2e4-4a53-ac91-a6c6e9336d06&w=640&q=75)
